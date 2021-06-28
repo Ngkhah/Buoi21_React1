@@ -1,0 +1,16 @@
+.nav-link {
+    color: black;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: white;
+    color: black;
+    border: 1px solid blue;
+}
+
+.nameShop {
+    font-weight: 100;
+    padding: 2rem 0;
+    font-size: 2rem;
+}

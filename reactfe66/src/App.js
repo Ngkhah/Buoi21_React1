@@ -3,7 +3,11 @@ import './App.css';
 // import DemoComponent from './Components/DemoComponent';
 // import DemoFComponent from './Components/DemoFComponent';
 // import BaiTapComponent from './Components/BaiTapComponent/BaiTapComponent';
-import BaiTapLayoutBootstrap from './Components/BaiTapLayoutBootstrap/BaiTapLayoutBootstrap';
+// import BaiTapLayoutBootstrap from './Components/BaiTapLayoutBootstrap/BaiTapLayoutBootstrap';
+// import DemoProps from './Props/DemoProps';
+// import ProductShoes from './Props/ProductShoes';
+// import DemoXemChiTiet from './DemoXemChiTiet/DemoXemChiTiet';
+import DemoChonMatKinh from './DemoChonMatKinh/DemoChonMatKinh';
 
 // import DataBinding from './DataBinding/DataBinding';
 // import DataBindingReactFunc from './DataBinding/DataBindingReactFunc';
@@ -16,7 +20,7 @@ function App() { //Component gốc của ứng dụng
   return (
     <div className="App">
         {/* <BaiTapComponent /> */}
-        <BaiTapLayoutBootstrap />
+        {/* <BaiTapLayoutBootstrap /> */}
         {/* <DataBinding />
         <DataBindingReactFunc /> */}
         {/* <HandleEvent /> */}
@@ -24,6 +28,10 @@ function App() { //Component gốc của ứng dụng
 
         {/* <BaiTapChonXe /> */}
         {/* <RenderWithMap /> */}
+        {/* <DemoProps /> */}
+        {/* <ProductShoes /> */}
+        {/* <DemoXemChiTiet /> */}
+        <DemoChonMatKinh />
     </div>
   );
 }
