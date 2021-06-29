@@ -7,7 +7,8 @@ import './App.css';
 // import DemoProps from './Props/DemoProps';
 // import ProductShoes from './Props/ProductShoes';
 // import DemoXemChiTiet from './DemoXemChiTiet/DemoXemChiTiet';
-import DemoChonMatKinh from './DemoChonMatKinh/DemoChonMatKinh';
+// import DemoChonMatKinh from './DemoChonMatKinh/DemoChonMatKinh';
+import DemoChonXe from './DemoChonXe/DemoChonXe';
 
 // import DataBinding from './DataBinding/DataBinding';
 // import DataBindingReactFunc from './DataBinding/DataBindingReactFunc';
@@ -31,7 +32,8 @@ function App() { //Component gốc của ứng dụng
         {/* <DemoProps /> */}
         {/* <ProductShoes /> */}
         {/* <DemoXemChiTiet /> */}
-        <DemoChonMatKinh />
+        {/* <DemoChonMatKinh /> */}
+        <DemoChonXe />
     </div>
   );
 }

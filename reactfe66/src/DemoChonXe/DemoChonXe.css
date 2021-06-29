@@ -1,0 +1,27 @@
+.model-car {
+    padding: 1rem;
+}
+
+.model-car .sanpham {
+    border: 1px solid gray;
+}
+
+.model-car .sanpham .img {
+    width: 100%;
+}
+
+.model-car .sanpham button {
+    margin: 0 1rem;
+    margin-bottom: 1rem;
+}
+
+.model-car .sanpham p {
+    padding: 0 1rem;
+}
+
+.model-car .sanpham h3 {
+    padding: 0 1rem;
+}
+.modal img{
+    width:100%;
+}
